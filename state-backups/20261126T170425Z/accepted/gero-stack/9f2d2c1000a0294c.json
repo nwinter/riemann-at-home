@@ -1,0 +1,25 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "proof": "300k",
+  "source_commit": "72fead102f663d5c7a407964a13dc0cf9d977207",
+  "toolchain": "leanprover/lean4:v4.35.0",
+  "mathlib_rev": "56a005855ea17e0b0958f73ec801ae140b0a1679",
+  "build_folder": "/opt/riemann-at-home/grh",
+  "build_id": "9f2d2c1000a0294c",
+  "machine": {
+    "os": "Linux 6.18.58.1-microsoft-standard-WSL2",
+    "arch": "x86_64",
+    "cpu": "AMD Ryzen 7 7800X3D 8-Core Processor",
+    "cores": 16
+  },
+  "started": "2026-11-26T16:14:12Z",
+  "recorded": "2026-11-26T16:56:06Z",
+  "busy_seconds": 2514,
+  "modules_compiled": 590,
+  "bitmap_b64": "H4sIAAAAAAACA/v/HwZ+/0cC9///r6/9de7ffyzgx9GEH//37////G/t/5McDd8dD6+vZRBgYQCDQw+////+//Lply/T5i5hOfDfoSlAgAUA5aFQTWUAAAA=",
+  "olean_digest": "655eac1df336fdf84dd4fcaa314ad166815ab9ce285b990bf6de5ac0abf47d03",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false
+}

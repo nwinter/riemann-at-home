@@ -1,0 +1,26 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "proof": "300k",
+  "source_commit": "72fead102f663d5c7a407964a13dc0cf9d977207",
+  "toolchain": "leanprover/lean4:v4.35.0",
+  "mathlib_rev": "56a005855ea17e0b0958f73ec801ae140b0a1679",
+  "build_folder": "/Users/Shared/riemann-at-home/grh",
+  "build_id": "975eb4f0483b9096",
+  "machine": {
+    "os": "Darwin 25.6.0",
+    "arch": "arm64",
+    "cpu": "Apple M2 Pro",
+    "cores": 10
+  },
+  "started": "2026-11-26T15:18:12Z",
+  "recorded": "2026-11-26T17:10:24Z",
+  "busy_seconds": 6732,
+  "modules_compiled": 197,
+  "bitmap_b64": "H4sIAAAAAAACE1NvsGUwaXjwn/HAToaGBf/+n/feo8DAkMjIGaRmwMCQs/ff//17f6Z+ZFoZLZDY8JxfJIPJjIHBgYODiYmTgYGBhZGDAQRYgUwwg4HpAZgCCicAqYafIA4LAOUleGVlAAAA",
+  "olean_digest": "00fc0bfa0b6d031db2ab411ca4ca3e02d3cc9839f1f4c80bfef5629b707626ee",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false,
+  "display_name": "Connell McGinley"
+}

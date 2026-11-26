@@ -1,0 +1,24 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "6f4ee6e6f339470c",
+  "machine": {
+    "os": "Linux 6.8.0-149-generic",
+    "arch": "x86_64",
+    "cpu": "AMD Ryzen 7 7700X 8-Core Processor",
+    "cores": 16
+  },
+  "started": "2026-11-26T05:29:17Z",
+  "recorded": "2026-11-26T14:43:50Z",
+  "busy_seconds": 1388,
+  "modules_compiled": 2010,
+  "bitmap_b64": "H4sIAAAAAAACA+2cS2gUSRjHv37otI9MajGEUQ+prArqYTcXQ5YFp5TgQQRH0IuXFTx4ERVBPOgmZZQonnLYQw6rRPDmRU8eFNLiUYR48hDUERZWfLC7iKuYmSmrumd6pueVGR3xMf8fZLpeXV311Vffl6oumgg0xyoH7Y5WzEiUq+fhxaSQNI9iRKOZUnIHEcP6wVUsa1SY6wZZZFvblh2aYG7Ter3wIoNft5WWuJE4XWgZAAAAAAAAAAAAAAAAAAAAAOB7QVqNckqvRnkUHarKKSPKQVb7kreWNYuWWNrxnp5zdMtcG0MOQCuwr6gtFoYDAAAAAAAA0A14ixdpdo6dQ4IAdBk+MfaxuybYJQVfAyJwfqM2yUr/xur5tSqNlYFL5LFSXmwbMe4x2YPk2oae02vDEYMvy/olkAEAAAAAAABdQ4LeKc2OvddHrj5cJbM6vJAOck7TSGldeV/9dtKy6OyE+RKKVANEflqpX/W60dzb1sGXXzglzYLzoP1WpRee5AsqpIemcvpSiiqH3urf8d4uGw4/r1ROPdqiXr+oXHYfC0Zp1gjm1j80MxgtzBNhgRmlFt2D8gtr58LQvErTlBC09DkTqTu0MmnuPSz6S+t1c8hxNWUPOSTzKyj9k3+DBk+N1VnpN6S/NinYk5D6b2MYL+TTRwc4TU86REO8T3CuC7Bk7B4vtpGxXDdzuRftLEzVe7BTm+T951CW/Gsk7h2NuldmLoz19xhFP5jdY+n23b3w5+9DjOT03E4v88edA8cTlHiMM1WVCiD+qi8P2ezVSnLo4qyvzYe/daKoazM/upMn3jzsJbnZ2RCk5fTUD3eOBAXnWo9RNOSGorVxjSr5FtU/kutyk12RIUVrViqn0h8tk1bO4I59otzfdcggFowRr3EFneRzbf5F+jVaIZWi07j5ej7/5KTKqUp6w5aIurXZNos1N1Whvv5AH503OmQHuVqjmCh+NotuW1v9pJdN0/+vxpyXmct/qx5rPFbzqPzBbfFUdrZ6cpUDrBNKRyI2ReS5sMe2kLr+FMme6vJMFieW6bfr2jJqBrfsUCKNZSpI2C65z8w8Tg2GT9z0/l5h/tLjfR4NawU2/2S0Ns/0SCZ6r+xuS0HkuuIY/fsJcxkA0C3YB7hnjCSffLMusGAyo+1ihx1f1mmjksuVkZXNSo60/1FGuf3nDAl5ROw6M27v55LNWKnAqPvGrkv1dPb9grbyfTU3WnWMPg97bBkvKXlcEDLyToWwlSLuxjNVVX8TSPoAeXZ8YItVAAA=",
+  "olean_digest": "7dc86d609d314191cfdaa5c2166a679aec355a02b2e5bb2ea675db2a1355d78d",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false
+}
